@@ -1,0 +1,9 @@
+pyomo>=6.7
+highspy>=1.7
+numpy>=1.24
+pandas>=2.0
+plotly>=5.18
+streamlit>=1.30
+scipy>=1.11
+scikit-learn>=1.4
+xgboost>=2.0
